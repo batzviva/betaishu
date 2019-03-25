@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://usazaipail.tomasp.net/sitemap.xml
